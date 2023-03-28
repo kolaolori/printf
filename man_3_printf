@@ -1,4 +1,4 @@
-.TH man 3 "28-03-23" "0.1" "_printf man page"
+.TH man 3 "25 March 2023" "0.1" "_printf man page"
 .SH NAME
 .B _printf
 - Formatted output conversion.
@@ -70,6 +70,6 @@ _printf("%s, %s %d, %d\\n", weekday, month, day, year);
 .SH SEE ALSO
 .I printf(3)
 .SH BUGS
-No known bugs,incase of anybugs reach out to us on github @kolapo
+No known bugs, If one is found sent your report to https://github.com/kolaolori and https://github.com/samcharis
 .SH AUTHOR
-SAMUEL OLORIGBE and CHARIS on Github
+KOLAPO OLORIEGBE and SAM CHARIS
