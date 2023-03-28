@@ -1,1 +1,1 @@
-This is about creating a printf fuction that is hinged on colaboration
+This is a collaborated project done by Kolapo and Charis on recreating a similar function like printf
